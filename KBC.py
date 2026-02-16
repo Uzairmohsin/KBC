@@ -32,3 +32,4 @@ while i != 10:
 
 if(reward==10000):
     print("AP JEET GAYE 7 CRORE , JUST KIDDING YOUR REWARD IS 10,000")
+            #COOL GAME
